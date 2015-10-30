@@ -1,2 +1,2 @@
 # beta
-Second Repository for easy passing of DigitalOcean Hacktober
+Second Repository for easy passing of DigitalOcean Hacktober. Blah
